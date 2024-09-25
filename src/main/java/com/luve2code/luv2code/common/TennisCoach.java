@@ -1,5 +1,6 @@
 package com.luve2code.luv2code.common;
 
+import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component
