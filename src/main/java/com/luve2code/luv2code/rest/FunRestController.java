@@ -1,4 +1,4 @@
-package com.luve2code.luv2code.rest;
+package com.luv2code.springdemo.rest;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
